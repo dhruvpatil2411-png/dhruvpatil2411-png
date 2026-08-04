@@ -1,6 +1,8 @@
 
 Hi there, I'm Dhruv Patil 👋
-🚀 About Me I'm Dhruv Patil, a 2nd Year Computer Engineering Student passionate about technology, software development, and continuous learning.
+
+🚀 About Me
+I'm Dhruv Patil, a 2nd Year Computer Engineering Student passionate about technology, software development, and continuous learning.
 
 🎓 Pursuing Computer Engineering.
 💻 Exploring Web Development, Programming, and Open Source. 
