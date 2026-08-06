@@ -102,7 +102,7 @@ Learning programming fundamentals and logic building.
 <p>
 🐙 GitHub:
 <a href="https://github.com/YOUR_USERNAME">
-YOUR_USERNAME
+dhruvpatil2411@gmail.com
 </a>
 </p>
 
