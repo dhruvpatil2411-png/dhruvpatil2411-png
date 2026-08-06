@@ -1,174 +1,117 @@
 <div align="center">
 
 <h1>
-  <span style="color:#00FFFF;">👋 Hi, I'm Dhruv Patil</span>
+  👋 Hi, I'm <span style="color:#00bfff;">Dhruv Patil</span>
 </h1>
 
 <h3>
-  <span style="color:#8A2BE2;">🎓 Second-Year Computer Engineering Student</span>
+  🎓 Second-Year Computer Engineering Student
 </h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;DSA+Learner;C+%7C+C%2B%2B+%7C+Python;Future+Software+Engineer" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00FFFF,100:8A2BE2&height=120&section=header&text=Welcome%20to%20my%20GitHub&fontSize=35&fontColor=ffffff" />
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Learning+DSA;C+%7C+C%2B%2B+%7C+Python;Future+Software+Engineer" />
+</p>
 
 </div>
 
+---
 
-<h2>
-<span style="color:#00FFFF;">👨‍💻 About Me</span>
-</h2>
+<h2>👨‍💻 About Me</h2>
+
+<div style="padding:15px; border-radius:10px; background:#111;">
+
+🎓 Second-Year Computer Engineering Student  
+<br>
+🌱 Currently learning <b>Data Structures & Algorithms (DSA)</b>  
+<br>
+💻 Programming Languages: <b>C, C++, Python</b>  
+<br>
+🔧 Tools: <b>Git, GitHub, VS Code</b>  
+<br>
+🚀 Interested in Software Development and Open Source  
+<br>
+📚 Always learning and improving my coding skills  
+
+</div>
+
+---
+
+<h2>🎯 Goals</h2>
+
+<ul>
+<li>🚀 Master Data Structures & Algorithms</li>
+<li>💻 Build real-world projects</li>
+<li>🌎 Contribute to Open Source</li>
+<li>🧠 Improve problem-solving skills</li>
+<li>🎯 Secure a Software Development Internship</li>
+</ul>
+
+---
+
+<h2>📂 Projects</h2>
 
 <table>
 <tr>
-<td>
-
-<div style="background:#111827;padding:20px;border-radius:15px;">
-
-🎓 <b>Second-Year Computer Engineering Student</b>
-
-<br><br>
-
-🌱 Currently learning  
-<b style="color:#00FFFF;">Data Structures & Algorithms (DSA)</b>
-
-<br><br>
-
-💻 Languages:
-<b style="color:#FFD700;">C | C++ | Python</b>
-
-<br><br>
-
-🔧 Tools:
-<b style="color:#FF69B4;">Git | GitHub | VS Code</b>
-
-<br><br>
-
-🚀 Interested in:
-<b style="color:#00FF7F;">Software Development & Open Source</b>
-
-<br><br>
-
-📚 Improving my coding skills every day 🚀
-
-</div>
-
-</td>
-</tr>
-</table>
-
-
-<h2>
-<span style="color:#8A2BE2;">🎯 Goals</span>
-</h2>
-
-<div>
-
-🔹 Master Data Structures & Algorithms  
-<br>
-🔹 Build real-world projects  
-<br>
-🔹 Contribute to Open Source  
-<br>
-🔹 Improve problem-solving skills  
-<br>
-🔹 Secure a Software Development Internship  
-
-</div>
-
-
-<h2>
-<span style="color:#00FFFF;">📂 Projects</span>
-</h2>
-
-
-<table>
-
-<tr>
-
 <td align="center" width="33%">
 
 <h3>📌 DSA Practice</h3>
 
 <p>
-<span style="color:#00FFFF;">
-C++ solutions for Data Structures & Algorithms problems.
-</span>
+Solving Data Structures & Algorithms problems using C++.
 </p>
 
 </td>
-
 
 <td align="center" width="33%">
 
 <h3>🐍 Python Projects</h3>
 
 <p>
-<span style="color:#FFD700;">
-Python projects for learning and automation.
-</span>
+Building beginner and intermediate Python projects.
 </p>
 
 </td>
-
 
 <td align="center" width="33%">
 
 <h3>💻 C Programming</h3>
 
 <p>
-<span style="color:#FF69B4;">
-Programs focused on logic building and fundamentals.
-</span>
+Learning programming fundamentals and logic building.
 </p>
 
 </td>
 
 </tr>
-
 </table>
 
+---
 
+<h2>🛠️ Skills</h2>
 
-<h2>
-<span style="color:#00FF7F;">🛠️ Skills</span>
-</h2>
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode" />
 
-<div align="center">
+</p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode&theme=dark" />
+---
 
-</div>
+<h2>📫 Connect With Me</h2>
 
-
-<h2>
-<span style="color:#FF69B4;">📫 Connect With Me</span>
-</h2>
-
-
-<div align="center">
-
+<p>
+🐙 GitHub:
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Dhruv%20Patil-181717?style=for-the-badge&logo=github">
+YOUR_USERNAME
 </a>
+</p>
 
-</div>
-
-
-<br>
-
+---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 <h3>
-<span style="color:#00FFFF;">
 ⭐ Keep Learning | Keep Building | Keep Growing 🚀
-</span>
 </h3>
 
 </div>
