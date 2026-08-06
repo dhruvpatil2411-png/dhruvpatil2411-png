@@ -1,3 +1,48 @@
+Create a modern GitHub profile README banner for a Computer Engineering student.
+
+Name: Dhruv Patil
+
+Style: Futuristic 3D developer workspace, different from common coding banners.
+
+Layout:
+- Left side: Large text "Hi, I'm Dhruv Patil 👋"
+- Subtitle: "Computer Engineering Student | C | C++ | Python | DSA"
+- Add small skill badges/icons for C, C++, Python, Git, GitHub
+- Right side: 3D holographic laptop with glowing code editor
+- Add floating programming elements like brackets {}, algorithms, data structures nodes, and circuit patterns
+
+Theme:
+- Dark black/navy background
+- Neon blue + purple + cyan lighting
+- Glassmorphism cards
+- Cyberpunk technology style
+- Clean professional developer portfolio look
+
+Extra:
+- Add subtle 3D depth effects
+- High quality
+- Suitable for GitHub profile README banner
+- Size: 1200x400 pixels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 <h1>
